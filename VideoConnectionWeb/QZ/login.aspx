@@ -1,7 +1,7 @@
 ﻿<!--
  * @Author: 严鑫
  * @Date: 2022-04-02 13:28:10
- * @LastEditTime: 2022-04-06 10:32:35
+ * @LastEditTime: 2022-04-06 11:19:37
  * @LastEditors: 严鑫
  * @Description: 
  * @FilePath: \shipinlianxian\VideoConnectionWeb\QZ\login.aspx
@@ -64,6 +64,7 @@
         <script src="../js/jquery-3.6.0.min.js"></script>
         <script async src="./lib/layui/layui.js"></script>
         <script src="login/js/main.js"></script>
+        <script src="./js/prohibit.js"></script>
         <script>
             function change() {
                 var img = document.getElementById("myCheckCode");
